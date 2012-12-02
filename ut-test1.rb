@@ -6,7 +6,7 @@ class TestMyClass < Test::Unit::TestCase
 
  def setup
      
- 	puts "setup.."
+ 	puts "setup unit test.."
  end 
 
  def test_myfunc1
